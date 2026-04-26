@@ -36,7 +36,7 @@ Related_Project:
 ![[Pasted image 20250610140927.png]]
 
 
-```
+```mermaid
    graph TD
        %% 3사 협력 구조
        A[디유넷<br/>AI 기술력] --> D{AI 소믈리에 Tool<br/>개발 및 통합}

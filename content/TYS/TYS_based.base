@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      or:
+        - file.tags.contains("TYS")
+        - file.name.contains("TYS")

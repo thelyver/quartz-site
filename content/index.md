@@ -4,7 +4,7 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **2개** 항목 게시됨.
+총 **5개** 항목 게시됨.
 
 ## 📂 게시 폴더
 
@@ -13,4 +13,7 @@ title: Sylver Notes
 ## 📁 200.프로젝트
 
 - [[200.프로젝트/223.03_와인21닷컴/AI소물리에_Tool BM diagram|AI소물리에_Tool BM diagram]]
+- [[200.프로젝트/223.AI소물리에/AI 와인 소믈리에 앱 Replit Executable PRD (ePRD) v1.0|AI 와인 소믈리에 앱 Replit Executable PRD (ePRD) v1.0]]
+- [[200.프로젝트/223.AI소물리에/디유넷 AI소물리에 개발위한 DIT 컨설팅업무 내역|디유넷 AI소물리에 개발위한 DIT 컨설팅업무 내역]]
+- [[200.프로젝트/223.AI소물리에/주류B2B 사업 스케치|주류B2B 사업 스케치]]
 

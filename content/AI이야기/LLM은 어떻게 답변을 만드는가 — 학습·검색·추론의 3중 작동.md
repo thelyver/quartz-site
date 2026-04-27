@@ -22,6 +22,7 @@ source URL:
   - https://claude.ai/share/5d07a82f-0043-403c-9dc9-92879b21775a
 description:
 ---
+→ [[커머스 플랫폼과 리뷰 API의 폐쇄형 정책 분석]]
 
 > [!NOTE] prompt
 > 추가 질문이 있어요.   

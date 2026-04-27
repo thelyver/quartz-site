@@ -4,12 +4,19 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **6개** 항목 게시됨.
+총 **7개** 항목 게시됨.
+
+## ⭐ 주요 노트
+
+- [[001.Inbox/quartz-publisher-샘플/01_주요노트-풀옵션|AI 와인 소믈리에 프로젝트 개요]] — 디유넷 + 와인21 + 파트너사 3사 협력으로 추진 중인 AI 추천 시스템
+- [[001.Inbox/quartz-publisher-샘플/02_주요노트-최소|02_주요노트-최소]]
+- [[001.Inbox/quartz-publisher-샘플/_README|Quartz Publisher 샘플 모음 (v0.3.0)]] — featured frontmatter의 3가지 패턴을 보여주는 테스트 노트
 
 ## 📋 게시 현황
 
 ### 📂 게시 폴더
 
+- [quartz-publisher-샘플](001.Inbox/quartz-publisher-%EC%83%98%ED%94%8C/)
 - [223.더데어](200.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/223.%EB%8D%94%EB%8D%B0%EC%96%B4/)
 
 ### 📁 001.Inbox

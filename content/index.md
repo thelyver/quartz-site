@@ -4,7 +4,7 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **7개** 항목 게시됨.
+총 **8개** 항목 게시됨.
 
 ## ⭐ 주요 노트
 
@@ -27,6 +27,7 @@ title: Sylver Notes
 
 - [[200.프로젝트/223.AI소물리에/AI 와인 소믈리에 앱 Replit Executable PRD (ePRD) v1.0|AI 와인 소믈리에 앱 Replit Executable PRD (ePRD) v1.0]]
 - [[200.프로젝트/223.AI소물리에/디유넷 AI소물리에 개발위한 DIT 컨설팅업무 내역|디유넷 AI소물리에 개발위한 DIT 컨설팅업무 내역]]
+- [[200.프로젝트/223.더데어/223.001_MOC-인덱스/20260428 데어에이 팀회의_001|20260428 데어에이 팀회의_001]]
 
 ### 📁 AI이야기
 

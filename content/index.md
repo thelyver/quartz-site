@@ -4,7 +4,7 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **9개** 항목 게시됨.
+총 **10개** 항목 게시됨.
 
 ## ⭐ 주요 노트
 
@@ -18,6 +18,7 @@ title: Sylver Notes
 
 - [quartz-publisher-샘플](001.Inbox/quartz-publisher-%EC%83%98%ED%94%8C/)
 - [223.더데어](200.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/223.%EB%8D%94%EB%8D%B0%EC%96%B4/)
+- [How to use AI](400.AI/How%20to%20use%20AI/)
 
 ### 📁 001.Inbox
 

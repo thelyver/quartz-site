@@ -48,10 +48,10 @@ description:
 
 ### 1-2. 소비자 Pain Point
 
-| Pain Point | 내용 |
-|-----------|------|
-| **선택의 어려움** | 너무 많은 와인 종류로 인해 어떤 와인을 선택해야 할지 모름 |
-| **가격 부담** | 와인은 고가 상품으로 인식되어 온라인 쇼핑의 가격 경쟁력 장점이 제한적 |
+| Pain Point  | 내용                                      |
+| ----------- | --------------------------------------- |
+| **선택의 어려움** | 너무 많은 와인 종류로 인해 어떤 와인을 선택해야 할지 모름       |
+| **가격 부담**   | 와인은 고가 상품으로 인식되어 온라인 쇼핑의 가격 경쟁력 장점이 제한적 |
 
 ### 1-3. Pain Point 해결을 위한 접근 방향
 
@@ -154,18 +154,18 @@ description:
 
 ## 5. 경쟁 서비스 분석 - 국내 10개
 
-| 번호 | 서비스명 | URL |
-|-----|---------|-----|
-| 1 | 와인21.com | https://www.wine21.com/ |
-| 2 | 마이빈티지 | https://www.myvintage.co.kr/ |
-| 3 | 와인그래피 | https://winegraphy.com/ |
-| 4 | 술담화 | https://sooldamhwa.com/ |
-| 5 | 와인앤모어 | https://www.wineNmore.com/ |
-| 6 | 와인티켓 | https://www.wineticket.co.kr/ |
-| 7 | 소믈리에코리아 | https://www.sommelierkorea.com/ |
-| 8 | 와인나라 | https://www.winenara.com/ |
-| 9 | 와인앤 | https://www.wineand.co.kr/ |
-| 10 | 더술 | https://thesool.com/ |
+| 번호  | 서비스명     | URL                             |
+| --- | -------- | ------------------------------- |
+| 1   | 와인21.com | https://www.wine21.com/         |
+| 2   | 마이빈티지    | https://www.myvintage.co.kr/    |
+| 3   | 와인그래피    | https://winegraphy.com/         |
+| 4   | 술담화      | https://sooldamhwa.com/         |
+| 5   | 와인앤모어    | https://www.wineNmore.com/      |
+| 6   | 와인티켓     | https://www.wineticket.co.kr/   |
+| 7   | 소믈리에코리아  | https://www.sommelierkorea.com/ |
+| 8   | 와인나라     | https://www.winenara.com/       |
+| 9   | 와인앤      | https://www.wineand.co.kr/      |
+| 10  | 더술       | https://thesool.com/            |
 
 ---
 

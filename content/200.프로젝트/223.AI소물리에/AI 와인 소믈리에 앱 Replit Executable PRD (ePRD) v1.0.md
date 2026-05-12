@@ -4,7 +4,7 @@ modified: 2026-01-31T12:46:21
 type:
   - note
 tags:
-  - AI소물리에2
+  - AI소물리에
   - replit_com
 author:
   - 강수근

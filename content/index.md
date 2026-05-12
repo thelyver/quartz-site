@@ -4,7 +4,7 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **8개** 항목 게시됨.
+총 **9개** 항목 게시됨.
 
 ## ⭐ 주요 노트
 
@@ -21,6 +21,7 @@ title: Sylver Notes
 
 ### 📁 001.Inbox
 
+- [[001.Inbox/AI 소믈리에(조물리에) 사업 기획 교육 자료|AI 소믈리에(조물리에) 사업 기획 교육 자료]]
 - [[001.Inbox/Quartz 테스트|Quartz 테스트]]
 
 ### 📁 200.프로젝트

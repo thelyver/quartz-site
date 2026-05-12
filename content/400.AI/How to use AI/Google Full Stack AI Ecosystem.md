@@ -1,3 +1,23 @@
+---
+created: 2026-05-12T21:36:39
+modified: 2026-05-12T21:37:22
+type:
+  - note
+tags:
+  - AIusage
+  - 구글
+  - 구글AI
+  - AItools
+author:
+  - 강수근
+aliases:
+index:
+Related_Project:
+related_note:
+source:
+source URL:
+description:
+---
 
 
 ![[Google Full Stack AI Ecosystem.png]]

@@ -4,7 +4,7 @@ title: Sylver Notes
 
 # Sylver Notes
 
-총 **10개** 항목 게시됨.
+총 **11개** 항목 게시됨.
 
 ## ⭐ 주요 노트
 
@@ -19,6 +19,7 @@ title: Sylver Notes
 - [quartz-publisher-샘플](001.Inbox/quartz-publisher-%EC%83%98%ED%94%8C/)
 - [223.더데어](200.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/223.%EB%8D%94%EB%8D%B0%EC%96%B4/)
 - [How to use AI](400.AI/How%20to%20use%20AI/)
+- [AI활용지원_아이디어메모](AI%ED%99%9C%EC%9A%A9%EC%A7%80%EC%9B%90_%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A9%94%EB%AA%A8/) — 데어에이 AI 활용지원 아이디어 메모 31개 + 전체 인덱스
 
 ### 📁 001.Inbox
 

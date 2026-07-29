@@ -18,9 +18,8 @@ author:
   - 강수근
 source:
 index:
-related_note:
+related:
 description: 김평국 대표 요청에 의한 DIT 경비 지급을 위한 근거자료 작성시 필요 내용
-Related_Project:
 ---
 
 ## DIT의 내부 인력(총 2MM)이 

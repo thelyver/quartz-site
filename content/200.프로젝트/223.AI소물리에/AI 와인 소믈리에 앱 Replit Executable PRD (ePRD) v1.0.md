@@ -10,8 +10,7 @@ author:
   - 강수근
 aliases:
 index:
-Related_Project:
-related_note:
+related:
 source:
   - https://wine-ai.replit.app/
 source URL:
